@@ -6,6 +6,10 @@
     font-weight: 400; 
     font-style: normal; 
     font-size: 16px;
+    background-image: url(../images/left_image.svg),
+    url(../images/element.png);
+    background-repeat: no-repeat;
+    background-position: top 10px left 0, top 554px right 190px;
 }
 
 .container {
