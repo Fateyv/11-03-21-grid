@@ -38,13 +38,14 @@
 }
 
 .couple_item {
-    background-color: white;
+    background-color: #FAFAFA;
     transition: all 0.4s;
     width: 270px;
     filter: drop-shadow(10px 10px 15px rgba(0, 0, 0, 0.384));
 }
 
 .couple_item:hover {
+    background-color: white;
     filter: drop-shadow(10px 10px 15px rgba(36, 111, 250, 0.897));
 }
 
